@@ -15,4 +15,8 @@ public class MainActivity extends AppCompatActivity {
         //Nothing is done
         //Another comment
     }
+
+    public void newFeatureMethod() {
+        //This includes the new feature
+    }
 }
