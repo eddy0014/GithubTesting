@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void doNohthing() {
         //Nothing is done
+        //Another comment
     }
 }
