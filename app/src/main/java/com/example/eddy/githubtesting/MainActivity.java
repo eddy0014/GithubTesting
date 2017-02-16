@@ -22,5 +22,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void AdditionMethod() {
         //This includes addition
+        //More things have been added
     }
 }
